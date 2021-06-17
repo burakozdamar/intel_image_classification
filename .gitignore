@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints
+seg_pred
+seg_train
+seg_test
